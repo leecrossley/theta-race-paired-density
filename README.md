@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24411637.svg)](https://doi.org/10.5281/zenodo.24411637)
 
+This result is now maintained in [theta-host-split-inert-race](https://github.com/leecrossley/theta-host-split-inert-race/tree/main/results/theta-race-paired-density). This repository is archived and keeps its releases and DOI.
+
 Assume the generalised Riemann hypothesis (GRH) for the primitive Dirichlet functions in the 547/727 race and its base field, including the Riemann zeta function. Alpöge's announced Dirichlet GRH theorem supplies this input. [Announcement](https://alpo.ge/remark.pdf) [Independent formal checks](https://math.mit.edu/~drew/grh/)
 
 The dyadic 547/727 prime-ideal race has two certified windows. Every doubling gains in the first and every doubling loses in the second. Shift both starting heights by the same multiplicative factor. **A positive lower logarithmic density of shifts preserves both signs throughout both windows.** The separation stays fixed at $`15529862.885`$ in log height. [Proof](PROOF.md)
